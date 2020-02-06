@@ -1,0 +1,16 @@
+body{
+    background-color: darkturquoise;
+}
+
+.jumbotron{
+    background-color: blue;
+    color: cornsilk;
+}
+
+.col-md-12{
+    background-color: rgba(148, 0, 211, 0.329);
+}
+a{
+    color: white;
+}
+
